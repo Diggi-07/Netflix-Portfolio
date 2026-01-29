@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Netflix-Portfolio/static/css/main.53e3e371.css",
+    "main.js": "/Netflix-Portfolio/static/js/main.c0921e40.js",
+    "static/js/453.b0cd7502.chunk.js": "/Netflix-Portfolio/static/js/453.b0cd7502.chunk.js",
+    "static/media/myself.jpg": "/Netflix-Portfolio/static/media/myself.cae3e45fdf902111e178.jpg",
+    "static/media/logo-2.png": "/Netflix-Portfolio/static/media/logo-2.7ad635deec51fcefeb11.png",
+    "static/media/Hotelcalifornia.jpg": "/Netflix-Portfolio/static/media/Hotelcalifornia.a1b2e230d97c00441c76.jpg",
+    "static/media/grey.png": "/Netflix-Portfolio/static/media/grey.bbfd7fb8e095529e355c.png",
+    "static/media/blue.png": "/Netflix-Portfolio/static/media/blue.9b293a4a6ef065903a8f.png",
+    "static/media/netflix-sound.mp3": "/Netflix-Portfolio/static/media/netflix-sound.a13a4aedfb5da5a27f04.mp3",
+    "static/media/yellow.png": "/Netflix-Portfolio/static/media/yellow.2631c5cf63f02f6bbfbf.png",
+    "static/media/red.png": "/Netflix-Portfolio/static/media/red.6138d0c52611186c9d03.png",
+    "static/media/alchemist.jpg": "/Netflix-Portfolio/static/media/alchemist.9c7b8d90f87afb9eb1f9.jpg",
+    "static/media/atomic_habits.jpg": "/Netflix-Portfolio/static/media/atomic_habits.1e9739efe6a8eca8240a.jpg",
+    "static/media/sandhit.svg": "/Netflix-Portfolio/static/media/sandhit.322bd17e07950f855e19097f24c02d65.svg",
+    "static/media/weekend.jpg": "/Netflix-Portfolio/static/media/weekend.7581b0d77e3c819d54ad.jpg",
+    "index.html": "/Netflix-Portfolio/index.html",
+    "main.53e3e371.css.map": "/Netflix-Portfolio/static/css/main.53e3e371.css.map",
+    "main.c0921e40.js.map": "/Netflix-Portfolio/static/js/main.c0921e40.js.map",
+    "453.b0cd7502.chunk.js.map": "/Netflix-Portfolio/static/js/453.b0cd7502.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53e3e371.css",
+    "static/js/main.c0921e40.js"
+  ]
+}
